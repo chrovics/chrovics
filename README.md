@@ -46,6 +46,6 @@ Aspiring Infrastructure and DevOps Engineer with a solid foundation in backend d
 
 I am always interested in discussing backend architecture, cloud infrastructure, and open-source DevOps tooling:
 
-* **GitHub:** [@your-username](https://www.google.com/search?q=https://github.com/chrovics)
+* **GitHub:** [@chrovics](https://www.google.com/search?q=https://github.com/chrovics)
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
 * **Email:** [chrovics@proton.me](mailto:chrovics@proton.me)
